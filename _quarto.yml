@@ -6,12 +6,12 @@ website:
   title: "REPS"
   navbar: false
 
-
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    link-citations: false
+    anchor-sections: false
 
 editor: visual
-

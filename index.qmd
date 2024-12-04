@@ -5,6 +5,8 @@ format: html
 
 ## X Congreso de la Red Española de Política Social (REPS) 2025
 
+**Logroño, 22-24 de octubre de 2025**
+
 ## Panel 10 \| Las políticas educativas y de protección a la infancia: interrelación e impactos
 
 ::: panel-tabset
@@ -26,6 +28,9 @@ Las propuestas de comunicaciones para el panel se deben enviar a través del [fo
 
 ## Contacto coordinadores
 
-En caso de cualquier pregunta o duda sobre el panel, por favor, no dude en contactar con los coordinadores: Sheila González Motos (sheila.gonzalez@ub.edu) y Adrián Zancajo (adrian.zancajo@gmail.com)
+En caso de cualquier pregunta o duda sobre el panel, por favor, no dude en contactar con los coordinadores: Sheila González Motos (sheila.gonzalez\@ub.edu) y Adrián Zancajo (adrian.zancajo\@gmail.com)
 
+## Información sobre el congreso
+
+Toda la información sobre el congreso (fechas, inscripción, alojamiento, etc.) está disponible en la [página web del congreso](https://reps2025.unirioja.es/)
 :::
