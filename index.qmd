@@ -1,8 +1,14 @@
 ---
 title: ""
+format: html
 ---
 
+## X Congreso de la Red Española de Política Social (REPS) 2025
+
 ## Panel 10 \| Las políticas educativas y de protección a la infancia: interrelación e impactos
+
+::: panel-tabset
+## **Descripción del panel**
 
 **Coordinadores:** Sheila González Motos (Universitat de Barcelona) y Adrián Zancajo (Universitat Autònoma de Barcelona)
 
@@ -13,3 +19,13 @@ El panel propone un enfoque interdisciplinario para el análisis de las polític
 Este panel tiene por objetivo reunir trabajos sobre políticas públicas que den muestra de la interrelación entre las políticas públicas educativas y de protección social que tienen por objetivo la reducción de la vulnerabilidad en la infancia. Por ello, el panel incluirá investigaciones que analicen políticas sociales dirigidas a la infancia, con especial énfasis en su relación con el ámbito educativo, así como, trabajos que, partiendo del ámbito de las políticas educativas, impliquen una dimensión social. En concreto, el panel incluirá: i) Análisis de políticas educativas que contemplen la compensación de desigualdades de carácter social, ii) Análisis de políticas sociales que impacten en el ámbito educativo, iii) Análisis de la interrelación del ámbito social y educativo
 
 **Palabras clave:** Infancia, Vulnerabilidad infantil, Políticas educativas compensatorias, Desigualdades sociales en la infancia, Políticas públicas
+
+## Envío de propuestas
+
+Las propuestas de comunicaciones para el panel se deben enviar a través del [formulario disponible en la página de web del congreso](https://reps2025.unirioja.es/es/pages/comunicaciones) antes del **31 de enero de 2025.**
+
+## Contacto coordinadores
+
+En caso de cualquier pregunta o duda sobre el panel, por favor, no dude en contactar con los coordinadores: Sheila González Motos (sheila.gonzalez@ub.edu) y Adrián Zancajo (adrian.zancajo@gmail.com)
+
+:::
