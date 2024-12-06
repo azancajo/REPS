@@ -1,6 +1,8 @@
 ---
 title: ""
-format: html
+format: 
+  html:
+    css: "styles.css"
 ---
 
 ## X Congreso de la Red Española de Política Social (REPS) 2025

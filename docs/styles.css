@@ -1,1 +1,10 @@
-/* css styles */
+body {
+  margin: 1px; /* Ajusta este valor según lo necesites */
+  padding: 1px;
+}
+
+main {
+  margin: 5px auto; /* Márgenes para el contenido principal */
+  max-width: 1000px; /* Define un ancho máximo para el contenido si lo necesitas */
+  padding: 20px;
+}
